@@ -21,7 +21,7 @@ MAX_WIDTH = 2500 # Maximum allowed image width by the API
 FORMAT = "image/jpeg" # Output data format
 FILENAME = "image1.jpg" # Output file
 QUALITY = 90 # JPEG quality
-BOX = "15.0617, 50.2856, 15.2252, 50.3378" # GPS coordinates of a square over Prague
+BOX = "15.0617, 50.2856, 15.2252, 50.3378" # GPS coordinates of a square over Prague Rožďalovice
 
 # Evalscript is a special processing JavaScript executed on the Copernicus servers
 # We want satellite data in true colors (bands B02, B03, B04)
