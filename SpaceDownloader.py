@@ -7,8 +7,8 @@ import math, argparse
 
 # Nastaveni API OAuth (musis se zaregistrovat)
 # https://shapps.dataspace.copernicus.eu/dashboard/#/account/settings
-client_id = "sh-42948b15-b05c-4b05-9fcf-a7252295a0b1"
-client_secret = "YRCYinKqK2mxoUWW68EMuIbwAk0fupSl"
+client_id = ""
+client_secret = ""
 
 if len(client_id) == 0 or len(client_secret) == 0:
     print("Vypln client_id a client_secret pro OAuth autentizaci!")
