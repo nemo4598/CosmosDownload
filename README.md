@@ -6,3 +6,6 @@ Run the .py file using python3 and edit variables and API
 (API is free)
 
 detailed instructions can be found in the code 
+
+
+for .exe Run the .exe MainDownloader.exe 
